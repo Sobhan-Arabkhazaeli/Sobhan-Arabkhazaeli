@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>💻 Front-end developer who loves crafting clean, fast UIs with React, Next.js, and TypeScript. I turn ideas into smooth, usable experiences . <br>⚡ always learning, always building .<br>💖 Design in mind, code in heart .
+<br>💻 Front-end developer who loves crafting clean, fast UIs with React, Next.js, and TypeScript. I turn ideas into smooth, usable experiences. <br>⚡ always learning, always building .<br>💖 Design in mind, code in heart .
 
 
 ## 🌐 Socials:
