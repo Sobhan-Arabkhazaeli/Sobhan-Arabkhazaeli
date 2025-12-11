@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👋 Hi there, I'm Sobhan Arabkhazaeli
 <br>💻 Front-end developer who loves crafting clean, fast UIs with React, Next.js, and TypeScript. I turn ideas into smooth, usable experiences. <br>💖 Design in mind, code in heart .
 
 
