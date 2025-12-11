@@ -1,6 +1,5 @@
 # 👋 Hi there, I'm Sobhan Arabkhazaeli
-<br>💻 Front-end developer who loves crafting clean, fast UIs with React, Next.js, and TypeScript. I turn ideas into smooth, usable experiences. <br>💖 Design in mind, code in heart .
-
+💻 Front-end developer who loves crafting clean, fast UIs with React, Next.js, and TypeScript. I turn ideas into smooth, usable experiences. <br>💖 Design in mind, code in heart .
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://in/sobhan-arabkhazaeli) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sobhanarabkhazaeli20@gmail.com) 
